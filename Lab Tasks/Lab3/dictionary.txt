@@ -1,0 +1,1 @@
+{'& "C:/Program Files/Python312/python.exe" c:/Users/k230056/Desktop/k230056/task3.py': 'Name'}
